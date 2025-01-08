@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Parihar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+![2a53651a35816f499270d8275fd5318f](https://github.com/user-attachments/assets/ceb42a52-239a-4159-a7cf-f17632f9c883)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanparihar2910&label=Profile%20views&color=0e75b6&style=flat" alt="aryanparihar2910" /> </p>
 
 - 🔭 I’m currently working on **my UG project**
